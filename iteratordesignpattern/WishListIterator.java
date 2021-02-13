@@ -1,6 +1,7 @@
 package iteratordesignpattern;
 
 import java.util.NoSuchElementException;
+
 /**
  * WishList Iterator class implementing Iterator 
  * @author Jackson Carroll
